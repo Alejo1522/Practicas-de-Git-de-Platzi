@@ -4,7 +4,9 @@ body{
     margin: auto;
 }
 body p{
-    margin: 0px 19%;
-    width: 59%;
     color: darkcyan;
+}
+#cabecera{
+    color: red;
+    font-size: 20px;
 }
