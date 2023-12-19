@@ -1,10 +1,14 @@
+*{
+    font-family: "Calibri";
+}
 body{
     text-align: center;
-    font-family: "arial";
     margin: auto;
 }
 body p{
-    color: darkcyan;
+    color: #4c924c;
+    display: flex;
+    flex-direction: column;
 }
 #cabecera{
     color: red;
