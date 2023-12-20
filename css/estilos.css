@@ -11,6 +11,8 @@ body p{
     flex-direction: column;
 }
 #cabecera{
-    color: #1100f3;
+    color: #ffffff;
+    background-color: blue;
+    padding: 10px;
     font-size: 20px;
 }
